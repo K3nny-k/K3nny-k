@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love chocolate flavored icecream
 
-[![K3nny's GitHub stats](https://github-readme-stats.vercel.app/apiK3nny-k=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3nny-k)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 K3nny-k/K3nny-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
