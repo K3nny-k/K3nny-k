@@ -4,6 +4,7 @@
 - 📫 How to reach me: k1649818595@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love chocolate flavored icecream
+- You can also be my software tester on google play https://play.google.com/apps/internaltest/4701275817624984097
 
 [![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3nny-k)](https://github.com/anuraghazra/github-readme-stats)
 
