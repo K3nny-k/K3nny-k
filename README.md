@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @K3nny-k
 - 👀 I’m interested in coding and video games
 - 🌱 I’m currently learning Computer science in NYU Tandon
-- 📫 How to reach me: k1649818595@gmail.com
+- 📫 How to reach me: kangk3nny@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love chocolate flavored icecream
 - You can also be my software tester on google play https://play.google.com/apps/internaltest/4701275817624984097
