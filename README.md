@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @K3nny-k
 - 👀 I’m interested in coding and video games
-- 🌱 I’m currently learning Computer science in NYU Tandon
+- 🌱 I’m currently learning Computer science & Math in NYU
 - 📫 How to reach me: kangk3nny@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love chocolate flavored icecream
